@@ -1,4 +1,4 @@
 #!/bin/sh
-target_dir=$HOME/.local/src/st
+target_dir=$HOME/.local/src/dmenu
 mkdir -p $target_dir
 yes | cp -rfT . $target_dir
